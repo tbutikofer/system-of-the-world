@@ -1,0 +1,9 @@
+# Obsidian workspace/UI state (safe to ignore)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/canvas.json
+
+# OS cruft
+.DS_Store
